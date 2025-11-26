@@ -45,7 +45,7 @@ npm run dev
 The frontend will start on `http://localhost:5173`.
 
 ## Assumptions & Bonus Features
-- **Bonus**: Implemented both Frontend and Backend tracks.
+- **Bonus**: Implemented both Frontend and Backend tracks also deployed the entire project into single URL.
 - **Bonus**: Advanced UI features (Glassmorphism, Animations, Drag & Drop).
 - **Assumption**: Single user environment (no complex auth for this demo, though structure allows for it).
 - **Assumption**: SQLite is used for "Real Database" requirement as it persists data to disk and supports SQL.

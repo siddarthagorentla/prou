@@ -2,6 +2,8 @@
 
 A full-stack application for managing employees and tasks with a premium, modern UI.
 
+Execution Video : https://drive.google.com/file/d/1g6Lp-yxyXjXzT1xdCH-vB8D56dtetZYt/view?usp=sharing
+
 ## Features
 - **Dashboard**: Real-time overview of statistics and task distribution.
 - **Employee Management**: Add, view, and delete employees.

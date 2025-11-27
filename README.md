@@ -58,3 +58,19 @@ The frontend will start on `http://localhost:5173`.
 - `POST /api/tasks` - Create task
 - `PUT /api/tasks/:id` - Update task status
 - `GET /api/dashboard` - Get summary stats
+
+## Website Images
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/702895c3-f332-4a35-b1ee-796142db5c2b" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/57faabd0-e463-4860-8941-03a80037ac85" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/99890992-84ba-45a6-9e7b-3443b2fda3f1" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2f354f50-5c40-4462-81c4-907f25009fa1" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9236bad9-7414-4794-a1f8-48e7971417d5" />
+
+
+
+
+
